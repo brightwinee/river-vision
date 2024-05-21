@@ -68,8 +68,4 @@ def segment_image():
     return jsonify(response)
 
 if __name__ == '__main__':
-<<<<<<< HEAD
     app.run(host="0.0.0.0", port="1450", debug=True)
-=======
-    app.run(host="0.0.0.0", port="1450", debug=True)
->>>>>>> 7d8efc0 (my changes)
